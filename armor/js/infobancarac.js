@@ -18,7 +18,7 @@ esse comando evitará que enviem trava de texto no seu grupo, pra o bot remover 
 Boa sorte.. 
 
 `
-                 ${NomeDoBot}
+
 }
 
 
