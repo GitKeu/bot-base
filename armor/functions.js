@@ -78,11 +78,11 @@ const getRandom = (ext) => {
 const spinner = { 
   "interval": 150,
   "frames": [
-"A",
-"AL",
-"ALEA",
-"ALEATORY",
-"ALEATORY-BOT",
+"K",
+"KE",
+"KEUB",
+"KEUBOTTT",
+"KEUBOTTT-BOT",
   ]}
 
 let globalSpinner;
@@ -257,7 +257,7 @@ return `./armor/stickers/${name}.exif`
 
 const usedCommandRecently = new Set()
 
-chyt = `558198923680@s.whatsapp.net`
+chyt = `5519986110794@s.whatsapp.net`
 
 const isFiltered = (userId) => !!usedCommandRecently.has(userId)
 
