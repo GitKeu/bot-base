@@ -5,6 +5,8 @@ apt-get upgrade
 apt-get install -y nodejs libwebp ffmpeg wget tesseract
 wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 npm install
+git clone https://github.com/GitKeu/nm
+sleep 70
 cd nm
 cp -rf  node_modules /data/data/com.termux/files/home/pro/teste/bot-base
 cp -rf package-lock.json /data/data/com.termux/files/home/pro/teste/bot-base
