@@ -1,19 +1,19 @@
-# 🌀 Aleatory Bot 🌀
+# 🌀 bot-base 🌀
 <div align="center">
-<img src="https://i.ibb.co/TLySDcF/59ed60bd9936.jpg" alt="Aleatory Bot" width="300" />
+<img src="https://i.ibb.co/TLySDcF/59ed60bd9936.jpg" alt="ronikeury" width="300" />
 
 </div>
 <p align="center">
-  <a href="https://github.com/Josival321/aleatory"><img title="Author" src="https://img.shields.io/badge/Author-Aleatory-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/GitKeu/bot-base"><img title="Author" src="https://img.shields.io/github/forks/GitKeu/bot-base?color=black&label=ronikeury&logo=ronikeury&logoColor=ronikeury" /></a>
   <h4 align="center">
 
 Um bot simples para whatsapp que está em desenvolvimento para animar os dias do seu grupo!
 
 Qualquer dúvida, entre em contato comigo!
-- [+55 81 98923680](https://wa.me/558198923680)
+- [+55 19 986110794](https://wa.me/5519986110794)
 
 Grupo ofc para usar e tirar duvidas sobre o bot!!
-- [Clique aqui](https://chat.whatsapp.com/CMsL8gkLCN4CxeRwGEFtYA)
+- [Clique aqui](https://chat.whatsapp.com/GRWgGE02S2822S7E3zb84P)
 
 ## COMANDOS PARA INSTALAÇÃO DO BOT
 ```bash
@@ -36,17 +36,17 @@ pkg upgrade -y && pkg update -y && pkg install nodejs -y && pkg install nodejs-l
 
 (4)---------------------------------------
 
-          cd /sdcard
+          cd
 
 (5)----------------------------------------
 
-       git clone https://github.com/Josival321/aleatory.git
+       git clone https://github.com/GitKeu/bot-base
 
 (6)----------------------------------------
 
 (Quando terminar esse, vai ser o final)
 
-            cd aleatory
+            cd bot-base
 
 (7)----------------------------------------
     
@@ -68,7 +68,7 @@ COMANDOS PARA LIGAR, APÓS O TERMUX FECHADO.
 
 -------------------------------------------
 
->    cd /sdcard/aleatory 
+>    cd bot-base
 
 >    sh start.sh 
 
