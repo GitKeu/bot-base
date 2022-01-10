@@ -1,7 +1,7 @@
 {
-  "name": "ALEATORY-BOT",
-  "version": "4.0.0",
-  "description": "Inteligência artificial feita por Aleatory!",
+  "name": "bot-base",
+  "version": "1.0.0",
+  "description": "Inteligência artificial feita por ronikeury!",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -14,15 +14,15 @@
   "keywords": [
     "k"
   ],
-  "author": "Aleatory",
+  "author": "Ronikeury",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Josival321/aleatory.git"
+    "url": "git+https://github.com/GitKeu/bot-base.git"
   },
   "bugs": {
-    "url": "https://github.com/Josival321/aleatory/issues"
+    "url": "https://github.com/GitKeu/bot-base/issues"
   },
-  "homepage": "https://github.com/Josival321/aleatory/readme",
+  "homepage": "https://github.com/GitKeu/bot-base/readme",
   "license": "MIT",
    "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
