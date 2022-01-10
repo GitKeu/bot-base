@@ -8,7 +8,7 @@ so entrar em contato
 ===valor do premium por mês R$15,00===
 ===valor do dono por mes R$30,00===
 `
-                ${NomeDoBot}
+
 }
 
 exports.gitdobot = gitdobot
