@@ -58,6 +58,7 @@ pkg upgrade -y && pkg update -y && pkg install nodejs -y && pkg install nodejs-l
 
 
              sh start.sh 
+Caso queira procurar por atualizações digite (sh update.sh) ou (bash update.sh)
 
 
 para ligar, e escanear o qrcode, vai precisar de um segundo celular, pra tirar a foto do qrcode e utilizar como base, para escanear a foto que você tirou, com um whatsapp secundário, e escanear a foto, através do WhatsApp web, que fica nos 3 pontinhos do WhatsApp, ou pode se chamar, aparelhos conectados, ou linked devices.)
