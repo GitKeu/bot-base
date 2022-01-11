@@ -10,7 +10,7 @@
 Um bot simples para whatsapp que está em desenvolvimento para animar os dias do seu grupo!
 
 Qualquer dúvida, entre em contato comigo!
-- [+55 19 986110794](https://wa.me/5519986110794)
+- [whatsapp](https://wa.me/5519986110794)
 
 Grupo ofc para usar e tirar duvidas sobre o bot!!
 - [Clique aqui](https://chat.whatsapp.com/GRWgGE02S2822S7E3zb84P)
