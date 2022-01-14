@@ -1,12 +1,12 @@
-# 🌀 bot-base 🌀
+## 🌀 bot-base 🌀
 <div align="center">
-<img src="https://i.ibb.co/TLySDcF/59ed60bd9936.jpg" alt="ronikeury" width="300" />
+<img src="https://photos.app.goo.gl/jrY8C8Ywkk2ebf1Y7" alt="ronikeury" width="300" />
 
 </div>
 <p align="center">
   <a href="https://github.com/GitKeu/bot-base"><img title="Author" src="https://img.shields.io/github/forks/GitKeu/bot-base?color=black&label=ronikeury&logo=ronikeury&logoColor=ronikeury" /></a>
   
-clique <a href="https://github.com/GitKeu/bot-base#para-ficar-mais-facil-voce-pode-copiar-os-comando-um-a-um-aqui"><img title="Author" src="https://img.shields.io/badge/-AQUI!!!-blue" /></a> para ver os comandos a copiar
+clique  <a href="https://github.com/GitKeu/bot-base#para-ficar-mais-facil-voce-pode-copiar-os-comando-um-a-um-aqui"><img title="Author" src="https://img.shields.io/badge/-AQUI!!!-blue" /></a> para ver os comandos a copiar
 
 <h4 align="center">
 
