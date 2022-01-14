@@ -79,26 +79,26 @@ COMANDOS PARA LIGAR, APÓS O TERMUX FECHADO.
 ```
 #PARA FICAR MAIS FACIL, VOCE PODE COPIAR OS COMANDO UM A UM AQUI 
 
-<h3>#comando um </h3>
+#comando um
 ```
 
 pkg upgrade -y && pkg update -y && pkg install nodejs -y && pkg install nodejs-lts -y && pkg install wget -y && pkg install git -y && pkg install python -y
 
 ```
 
-<h3>#comando dois </h3>
+#comando dois
 
 ```
         termux-setup-storage 
 
 ```
-<h3>#comando três </h3>
+#comando três
 ```
 
           cd
 ```
 
-<h3>#comando quatro </h3>
+#comando quatro
 
 ```
 
@@ -106,7 +106,7 @@ pkg upgrade -y && pkg update -y && pkg install nodejs -y && pkg install nodejs-l
 
 ```
 
-<h3>#comando cinco </h3>
+#comando cinco
 
 ```
 
@@ -114,26 +114,26 @@ pkg upgrade -y && pkg update -y && pkg install nodejs -y && pkg install nodejs-l
 
 ```
 
-<h3>#comando seis </h3>
+#comando seis
  
 ```
   pkg install ffmpeg -y && bash install.sh
 
 ```
 
-<h3>#comando sete </h3>
+#comando sete
 ```
 
 
              sh install.sh 
 ```
-<h3>#comando oito </h3>
+#comando oito
 
 ```
              sh start.sh
 ```
 
-<h3>#comando nove (use apenas quando precisar atualizar o bot) </h3>
+#comando nove (use apenas quando precisar atualizar o bot)
 
 ```
 
