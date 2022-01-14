@@ -16,7 +16,7 @@ Grupo ofc para usar e tirar duvidas sobre o bot!!
 - [Clique aqui](https://chat.whatsapp.com/GRWgGE02S2822S7E3zb84P)
 
 ## COMANDOS PARA INSTALAÇÃO DO BOT
-```bash
+bash
 
 > -----------------------------------
 
@@ -76,7 +76,7 @@ COMANDOS PARA LIGAR, APÓS O TERMUX FECHADO.
 >    Somente esses 2.
 
 -------------------------------------------
-```
+
 #PARA FICAR MAIS FACIL, VOCE PODE COPIAR OS COMANDO UM A UM AQUI 
 
 #comando um
