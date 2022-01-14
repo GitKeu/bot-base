@@ -5,7 +5,8 @@
 </div>
 <p align="center">
   <a href="https://github.com/GitKeu/bot-base"><img title="Author" src="https://img.shields.io/github/forks/GitKeu/bot-base?color=black&label=ronikeury&logo=ronikeury&logoColor=ronikeury" /></a>
-  <h4 align="center">
+  <omg src="https://img.shields.io/badge/-AQUI!!!-blue">
+<h4 align="center">
 
 Um bot simples para whatsapp que está em desenvolvimento para animar os dias do seu grupo!
 
