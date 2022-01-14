@@ -109,21 +109,21 @@ const close = (id, text) => {
 	spins.fail(id, {text: text})
 }
 
-const banner = cfonts.render(('ALEA 4.1'), {
+const banner = cfonts.render(('KEUBOT 1.0'), {
     font: 'block',
     align: 'center',
     colors: [`${cor1}`,`${cor3}`,`${cor4}`,`${cor2}`],
     lineHeight: 4
   });
 
-const banner2 = cfonts.render(('By: - ALEA - '), {
+const banner2 = cfonts.render(('By: - KEUBOT - '), {
     font: 'chrome',
     align: 'center',
     colors: [`${cor3}`,`${cor1}`,`${cor5}`],
     lineHeight: 1
   });
  
-const banner3 = cfonts.render((`ALEA 4.1`), {
+const banner3 = cfonts.render((`KEUBOT 1.0`), {
 font: 'simple',
 color: 'system',
 align: 'center',
@@ -217,11 +217,11 @@ const cmdadd = () => {
 	fs.writeFileSync('./datab/data/totalcmd.json', JSON.stringify(ceemde))
 }
 
-authorname = 'ALEATORY-BOT'
+authorname = 'KEUBOT-BOT'
 packname = '-JR-'
   
 function addMetadata(packname, author) {	
-if (!packname) packname = 'ALEATORY-BOT'; if (!author) author = 'ALE';	
+if (!packname) packname = 'KEUBOT-BOT'; if (!author) author = 'KEU';	
 author = author.replace(/[^a-zA-Z0-9]/g, '');	
 let name = `${author}_${packname}`
 if (fs.existsSync(`./armor/stickers/${name}.exif`)) return `./armor/stickers/${name}.exif`
