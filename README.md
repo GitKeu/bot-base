@@ -77,3 +77,66 @@ COMANDOS PARA LIGAR, APÓS O TERMUX FECHADO.
 
 -------------------------------------------
 ```
+#PARA FICAR MAIS FACIL, VOCE PODE COPIAR OS COMANDO UM A UM AQUI 
+
+<h3>#comando um </h3>
+'''
+
+pkg upgrade -y && pkg update -y && pkg install nodejs -y && pkg install nodejs-lts -y && pkg install wget -y && pkg install git -y && pkg install python -y
+
+'''
+
+<h3>#comando dois </h3>
+
+'''
+        termux-setup-storage 
+
+'''
+<h3>#comando três </h3>
+'''
+
+          cd
+'''
+
+<h3>#comando quatro </h3>
+
+'''
+
+       git clone https://github.com/GitKeu/bot-base
+
+'''
+
+<h3>#comando cinco </h3>
+
+'''
+
+            cd bot-base
+
+'''
+
+<h3>#comando seis </h3>
+ 
+'''   
+  pkg install ffmpeg -y && bash install.sh
+
+'''
+
+<h3>#comando sete </h3>
+'''
+
+
+             sh install.sh 
+'''
+<h3>#comando oito </h3>
+
+'''
+             sh start.sh
+'''
+
+<h3>#comando nove (use apenas quando precisar atualizar o bot) </h3>
+
+'''
+
+sh update.sh 
+
+'''
