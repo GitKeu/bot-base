@@ -148,7 +148,7 @@ sh update.sh
 
 ```
 
-<a href="https://github.com/GitKeu/bot-base#-bot-base-"><img title="Author" src="https://img.shields.io/badge/-topo-yellow" /></a>
+Voltar ao <a href="https://github.com/GitKeu/bot-base#-bot-base-"><img title="Author" src="https://img.shields.io/badge/-topo-yellow" /></a>
 
 
 </p>
