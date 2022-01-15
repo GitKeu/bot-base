@@ -2,12 +2,15 @@
 <div align="center">
 <img src="https://photos.app.goo.gl/jrY8C8Ywkk2ebf1Y7" alt="ronikeury" width="300" />
 
+
+
 </div>
 <p align="center">
   <a href="https://github.com/GitKeu/bot-base"><img title="Author" src="https://img.shields.io/github/forks/GitKeu/bot-base?color=black&label=ronikeury&logo=ronikeury&logoColor=ronikeury" /></a>
   
 clique  <a href="https://github.com/GitKeu/bot-base#para-ficar-mais-facil-voce-pode-copiar-os-comando-um-a-um-aqui"><img title="Author" src="https://img.shields.io/badge/-AQUI!!!-blue" /></a> para ver os comandos a copiar
 
+Clique no link e faça o <a href="https://dw.uptodown.com/dwn/1QZZS9-th_Zu6lVmhY-O5Ko39mdO_rPHncbcjEKLvWibGJORvta2fBTox2fy3B7qzku-2naCrGzyToaaUM9HyXx4NNF2WaCjhMZl_JSsoqztEn1hMsqTBtdlrn_97Gxw/Vvw1XqTQatkQhMWSLIoy3mQYA286Dc2QS467B9qc4JNmwjf0pG6dXx3iegskRPM9xut7Fc5oaAAsHW10Mg3bWlWI3C45jf0CqyzRjoN6nj5yy-56c-4EyK-ycFTmxIKH/Dh94MrKyLYcua_RfgcJzULU1MOPl2saxHFxlmpswTk_u_aPCOUDHLmr0U4wUINQ6/"><img title="Author" src="https://img.shields.io/badge/-DOWNLOAD-blue" /></a> do termux
 <h4 align="center">
 
 Um bot simples para whatsapp que está em desenvolvimento para animar os dias do seu grupo!
