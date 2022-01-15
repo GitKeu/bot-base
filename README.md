@@ -1,6 +1,6 @@
 ## 🌀 bot-base 🌀
 <div align="center">
-<img src="https://photos.app.goo.gl/jrY8C8Ywkk2ebf1Y7" alt="ronikeury" width="300" />
+<img src="https://ibb.co/ZYPrsF6" alt="ronikeury" width="300" />
 
 
 
