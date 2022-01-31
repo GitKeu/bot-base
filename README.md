@@ -124,7 +124,7 @@ pkg upgrade -y && pkg update -y && pkg install nodejs -y && pkg install nodejs-l
 ## comando seis
  
 ```
-  pkg install ffmpeg -y && bash install.sh
+  pkg install ffmpeg -y
 
 ```
 
