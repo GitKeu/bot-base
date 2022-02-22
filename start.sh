@@ -1,4 +1,6 @@
 #!bin/bash
+rm -rf nm
+clear
 GREEN='\033[0;32m'
 while : 
 do
