@@ -14,7 +14,6 @@ cp -rf  node_modules /data/data/com.termux/files/home/bot-base
 cp -rf package-lock.json /data/data/com.termux/files/home/bot-base
 sleep 30
 cd -
-rm -rf nm
 echo "[*] todas as dependencias foram instaladas, digite o  comando \"npm start\" para iniciar imediatamente o  script"
 
 echo "[*] All dependencies have been installed, please run the command \"npm start\" to immediately start the script"
